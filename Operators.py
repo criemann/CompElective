@@ -7,3 +7,6 @@ if age == agebf:
 elif age > agebf:
     print name, "is older than", namebf
     print name, "is", age, "and", namebf, "is", agebf
+elif age < agebf
+        print name, "is younger than", namebf
+        print name, "is", age, "and", namebf, "is", agebf
